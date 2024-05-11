@@ -1,4 +1,4 @@
-#CIFRADO CESAR
+##CIFRADO CESAR
 ### Introducción al Cifrado César
 
 El cifrado César es uno de los sistemas criptográficos más antiguos y simples, pero a la vez, efectivos. Este método de encriptación ha sido utilizado a lo largo de la historia, desde la época del Imperio Romano, hasta la actualidad. En esta guía, exploraremos los fundamentos, el funcionamiento, las aplicaciones y las fortalezas y debilidades de este fascinante sistema de cifrado.
@@ -17,9 +17,9 @@ El cifrado César es un tipo de cifrado de sustitución, en el que cada letra de
 
 Supongamos que queremos cifrar el mensaje "HOLA MUNDO" utilizando una clave de 3 posiciones. Para ello, reemplazaríamos cada letra del mensaje original por la letra que se encuentra 3 posiciones más adelante en el alfabeto:
 
-| Texto Original: | H | O | L| A | M | U | N | D|O|
-| ------------- | ----- |
-|**Texto Cifrado:**   |K|R|O|D|P|X|Q|G|R|
+| Texto Original: | H | O | L | A | M | U | N | D | O |
+| ------------- | ----- |---- |---- |---- |---- |---- |---- |---- |---- |
+|**Texto Cifrado:**| K | R | O | D | P | X | Q | G | R |
 
 De esta manera, el mensaje "HOLA MUNDO" se transforma en "KRODPXQGR" utilizando el cifrado César con una clave de 3 posiciones.
 
