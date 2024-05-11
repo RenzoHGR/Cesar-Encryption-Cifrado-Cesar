@@ -1,5 +1,6 @@
 def cifrar_cifrado_cesar(cadena_original, desplazamiento):
     cadena_cifrada = ""
+    #un ejemplo (U3Q2@"1256"#.)
     for caracter in cadena_original:
         if caracter.isalpha():
             if caracter.islower():
